@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyCustomDictionary.cs](./CS/WebSite/App_Code/MyCustomDictionary.cs) (VB: [MyCustomDictionary.vb](./VB/WebSite/App_Code/MyCustomDictionary.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxHtmlEditor - How to use a custom dictionary for the built-in SpellChecker control
 
 
